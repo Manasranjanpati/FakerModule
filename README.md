@@ -1,0 +1,3 @@
+# Faker_Module
+
+>Faker is a django inbuilt feature where we can create fake data....
